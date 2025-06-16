@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jsuhas2204@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-K8N5X99sCFIRTRwuFQe7hZ39_Jhr04k/view?usp=sharing](https://drive.google.com/file/d/1-K8N5X99sCFIRTRwuFQe7hZ39_Jhr04k/view?usp=sharing)
+- 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1-K8N5X99sCFIRTRwuFQe7hZ39_Jhr04k/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
