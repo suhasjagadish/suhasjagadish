@@ -6,13 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data analysis**
+# 💫 About Me:
+🔭 I’m currently working on Data analysis<br>
+<br>🌱 I’m currently learning Data analysis, Machine Learning<br>
+<br>💬 Ask me about SQL and MS Excel Dashboard<br>
+<br>📫 How to reach me suhasj966@gmail.com
 
-- 🌱 I’m currently learning **Data analysis, Machine Learning**
-
-- 💬 Ask me about **SQL and MS Excel Dashboard**
-
-- 📫 How to reach me **suhasj966@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
