@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jsuhas2204@gmail.com**
 
-- 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1-K8N5X99sCFIRTRwuFQe7hZ39_Jhr04k/view?usp=sharing)
+- 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1mbVD6zwNsQTdFOvt1X_IrRJLZKHVEDYJ/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-jagadish/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jsuhas2204@gmail.com) 
